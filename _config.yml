@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Sam Bellenchia # your name (or website title) here
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A portfolio to showcase some of my 
   <br><br>
-  Second description 
+  interests, 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  skills,
+  <br><br>
+  and experiences
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">LinkedIn</a> 
+  <a href="https://www.github.com/Schlam/">GitHub</a> 
+  <a href="https://www.twitter.com/SamBellenchia/">Twitter</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google-analytics: G-YVSWD20NSW
