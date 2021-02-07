@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Facial Recognition using various Deep Learning techniques](/sample_page)
+<img src="images/facial_recognition.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
