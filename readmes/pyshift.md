@@ -25,4 +25,4 @@ api, a fast and free source of social media data.
 
 - Create Time Series datasets with granularity down to **the second**
 
-![gif](/img/pyshift.gif)
+![gif](/images/pyshift.gif)
