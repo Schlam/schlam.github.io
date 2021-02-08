@@ -1,35 +1,23 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### [Predicting $BTC-USD using sentiment from Reddit forums like r/WallStreetBets](/projects/btc.md)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![btc_year](images/btc_forecast_ALL.png)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Unlike the previous renditions, this model predicts behavior using the historical data alone. The performance benefit of synchronizing sentiment with stock trends in the multivariate analysis is nominal and certainly outweighed by the potential for adversarial attack (after inspecting the reddit data used, I noticed some agent was spamming "I love bitcoin :)" in intervals for reasons unknown.) The signal to noise ratio isn't what I'd hoped, but in almost any other context this problem is not as prevelant and seems to be mainly a bitoin thing.
 
 ---
 
-### Category Name 2
+### [Analysis, Language Detection, and ETL for Airbnb listings in Rio de Janeiro](/projects/rio.md)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+Sometimes the best way to make sense of data is not to use
+some complicated and opaque machine learning method, but to
+present certain aspects, metrics, and aggregate measures in
+a clear way that speaks to the reality underlying that data.
 
----
-
-
-
+This is where the Data Analyst provides value-- by transforming
+deceptively arbitrary rows in a dataset into actionable intelligence.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
