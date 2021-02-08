@@ -1,6 +1,6 @@
 # Portfolio
 
----
+<!-- ---
 
 ## Big Data
 
@@ -16,7 +16,14 @@ transactional processing
 
 ### Transactional Processing
 
----
+--- -->
+
+[Language Model](/readmes/semantics.md)
+
+[r-suggest](/readmes/r_suggest.md)
+
+[PyShift](/readmes/pyshift.md)
+
 
 ## Data Modeling
 
