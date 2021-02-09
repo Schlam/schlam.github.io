@@ -11,11 +11,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   in the connection between the models we build and the world they describe.
   <br><br>
   <br><br>
+  <div align="center">
   <a align="center" href="https://www.linkedin.com/in/example/">LinkedIn</a> 
+  </div>
   <br><br>
+  <div align="center">
   <a align="center" href="https://www.github.com/Schlam/">GitHub</a> 
+  </div>
   <br><br>
+  <div align="center">
   <a align="center" href="https://www.twitter.com/SamBellenchia/">Twitter</a> 
+  </div>
   <br><br>
   
 theme: jekyll-theme-minimal
