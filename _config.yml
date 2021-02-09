@@ -13,5 +13,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a style="color:black" href="https://www.twitter.com/SamBellenchia/">Twitter  </a> 
   </div>
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 google-analytics: G-YVSWD20NSW
