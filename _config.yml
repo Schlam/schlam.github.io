@@ -8,9 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <br><br>
   <div align="center">
-  <a style="color:black" href="https://www.linkedin.com/in/example/">LinkedIn</a> 
-  <br><a style="color:black" href="https://www.github.com/Schlam/">GitHub</a> 
-  <br><a style="color:black" href="https://www.twitter.com/SamBellenchia/">Twitter</a> 
+  <a style="color:black" href="https://www.linkedin.com/in/example/">LinkedIn  </a> 
+  <a style="color:black" href="https://www.github.com/Schlam/">GitHub  </a> 
+  <a style="color:black" href="https://www.twitter.com/SamBellenchia/">Twitter  </a> 
   </div>
   
 theme: jekyll-theme-minimal
