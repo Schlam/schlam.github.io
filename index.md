@@ -1,7 +1,6 @@
-## Projects
+# Projects
 
-**02/08/21:** Currently updating this page with my most current work,
-check back soon for updates
+Below are examples of things I have worked on over the years.
 
 ---
 
