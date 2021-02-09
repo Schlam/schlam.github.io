@@ -12,11 +12,15 @@ creating visualizations, etc. Some viz examples are shown below.
 
 ### Average availability in top 20 districts
 
-![availability](/images/availability.png)
+<div align="center">
+  <img src="images/availability.png">
+</div>
 
 ### Most popular listings
 
-![bar](/images/bar.png)
+<div align="center">
+  <img src="images/bar.png">
+</div>
 
 Notice how the listing name seems to correlate with popularity.
 
