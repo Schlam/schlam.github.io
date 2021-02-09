@@ -5,7 +5,7 @@ check back soon for updates
 
 ---
 
-### [Analysis, Language Detection, and ETL for Airbnb listings in Rio de Janeiro](https://schlam.github.io/sparknlp-language-detection/)
+### [Analysis, Language Detection, and ETL for Airbnb listings in Rio de Janeiro](projects/rio.md)
 
 <div align="center">
   <img src="images/bar.png">
@@ -13,7 +13,7 @@ check back soon for updates
 
 ---
 
-### [Predicting $BTC-USD using LSTM Deep Learning Model](https://schlam.github.io/lstm-time-series-forecasting/)
+### [Predicting $BTC-USD using LSTM Deep Learning Model](projects/btc.md)
 
 <div align="center">
   <img src="images/btc_forecast_ALL.png">
