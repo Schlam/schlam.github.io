@@ -6,9 +6,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b>Teaching Assistant<b>
   Northwestern University Data Science Boot Camp
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">LinkedIn</a> 
-  <a href="https://www.github.com/Schlam/">GitHub</a> 
-  <a href="https://www.twitter.com/SamBellenchia/">Twitter</a> 
+  My data science journey started in the Physics Department of Stony Brook University,
+  where I first developed a passion for turning numbers into meaning, and became interested
+  in the connection between the models we build and the world they describe.
+  <br><br>
+  <br><br>
+  <a align="center" href="https://www.linkedin.com/in/example/">LinkedIn</a> 
+  <br><br>
+  <a align="center" href="https://www.github.com/Schlam/">GitHub</a> 
+  <br><br>
+  <a align="center" href="https://www.twitter.com/SamBellenchia/">Twitter</a> 
+  <br><br>
   
 theme: jekyll-theme-minimal
 google-analytics: G-YVSWD20NSW
