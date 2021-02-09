@@ -12,11 +12,11 @@ creating visualizations, etc. Some viz examples are shown below.
 
 ### Average availability in top 20 districts
 
-![availability](images/availability.png)
+![availability](/images/availability.png)
 
 ### Most popular listings
 
-![bar](images/bar.png)
+![bar](/images/bar.png)
 
 Notice how the listing name seems to correlate with popularity.
 
