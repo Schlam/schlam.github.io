@@ -12,7 +12,7 @@ creating visualizations, etc. Some viz examples are shown below.
 
 ### Average availability in top 20 districts
 
-![availability](images/availability.png)
+![availability](/images/availability.png)
 
 ### Most popular listings
 
