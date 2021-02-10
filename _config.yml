@@ -1,17 +1,14 @@
-title: Samuel C Bellenchia # your name (or website title) here
-logo: "images/logo.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  
+title: Sam Bellenchia
+logo: "images/logo.png"
+description: >
   <br><br>
-  <b>Teaching Assistant<b>
-  Northwestern University Data Science Boot Camp
-  <br><br>
+  <h2>Teaching Assistant</h2>
+  <h3>Northwestern University Data Science Boot Camp</h3>
   <br><br>
   <div align="center">
-  <a style="color:black" href="https://www.linkedin.com/in/example/">LinkedIn  </a> 
-  <a style="color:black" href="https://www.github.com/Schlam/">GitHub  </a> 
-  <a style="color:black" href="https://www.twitter.com/SamBellenchia/">Twitter  </a> 
+    <a style="color:black" href="https://www.linkedin.com/in/example/">LinkedIn  </a> 
+    <a style="color:black" href="https://www.github.com/Schlam/">GitHub  </a> 
+    <a style="color:black" href="https://www.twitter.com/SamBellenchia/">Twitter  </a> 
   </div>
-  
 theme: jekyll-theme-minimal
-google-analytics: G-YVSWD20NSW
+# google-analytics: G-YVSWD20NSW
