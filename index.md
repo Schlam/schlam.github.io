@@ -1,7 +1,5 @@
 # Projects
 
-Below are examples of things I have worked on over the years.
-
 ---
 
 ### [Analysis, Language Detection, and ETL for Airbnb listings in Rio de Janeiro](projects/rio.md)
