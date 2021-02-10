@@ -1,4 +1,16 @@
-#name {
+#name:hover {
   color: black;
   text-align: center;
+}
+
+#twitter:hover {
+  color: rgb(104, 165, 191)
+}
+
+#linkedin:hover {
+  color: rgb(46, 148, 237)
+}
+
+#github:hover {
+  color: rgb(0, 0, 0)
 }
