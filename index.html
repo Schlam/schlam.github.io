@@ -15,6 +15,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/modern-business.css" rel="stylesheet">
+  <link href="divider_style.css" rel="stylesheet">
 
 </head>
 
@@ -97,15 +98,26 @@
 
   <!-- Page Content -->
   <div class="container">
-
-    <h1 class="my-4" style="font-family:Arial, Helvetica, sans-serif;text-align: center;font-size:xx-large;">Welcome to my website</h1>
-
+    
+    <!-- <hr> -->
+  
+    <!-- <h1 class="my-4" style="text-align: center;font-size:xx-large;color:darkslategrey">Projects</h1> -->
+    
+        <!-- <h5 style="font-family:Arial, Helvetica, sans-serif;">
+          Take a look at some of the projects I have worked on
+        </h5> -->
+    
+    <hr>
+    <hr>
+    <!-- <h2 style="font-family:Arial, Helvetica, sans-serif;font-size:large;">Here are some things I've worked on</h2> -->
+    
     <!-- Portfolio Section -->
-    <h2 class="my-4" style="font-family:Arial, Helvetica, sans-serif;font-size:large;">Here are some things I've worked on</h2>
     <div class="row">
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="https://github.com/Schlam/pyshift/raw/master/img/pyshift.gif" alt=""></a>
+          <!-- <a href="https://github.com/Schlam/pyshift"> -->
+            <img class="card-img-top" src="https://github.com/Schlam/pyshift/raw/master/img/pyshift.gif" alt="">
+          <!-- </a> -->
           <div class="card-body">
             <h4 class="card-title">
               <a href="https://github.com/Schlam/pyshift">PyShift</a>
@@ -118,7 +130,9 @@
       </div>
     <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="https://github.com/Schlam/LSTM-time-series-forecasting/raw/master/images/btc_forecast.png" alt=""></a>
+          <a href="https://github.com/Schlam/LSTM-time-series-forecasting">
+            <!-- <img class="card-img-top" src="https://github.com/Schlam/LSTM-time-series-forecasting/raw/master/images/btc_forecast.png" alt=""> -->
+          </a>
           <div class="card-body">
             <h4 class="card-title">
               <a href="https://github.com/Schlam/LSTM-time-series-forecasting">Bitcoin Forecasting</a>
@@ -131,12 +145,12 @@
         
       <div class="col-lg-4 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="https://camo.githubusercontent.com/d81f6e35394eeadf37768f89b1375d03a8400700/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323030302f302a746533786b734f725679744d2d423137" alt=""></a>
+          <a href="https://github.com/Schlam/InceptionV3-transfer-learning"><img class="card-img-top" src="https://camo.githubusercontent.com/d81f6e35394eeadf37768f89b1375d03a8400700/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323030302f302a746533786b734f725679744d2d423137" alt=""></a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Identifying bird species by fine tuning an InceptionV3 model</a>
+              <a href="https://github.com/Schlam/InceptionV3-transfer-learning">Identifying bird species by fine tuning an InceptionV3 model</a>
             </h4>
-            <p class="https://github.com/Schlam/inceptionV3-transfer-learning">
+            <p class="card-text">
               Fine-tuning a pretrained image classification model (InceptionV3) to recognize bird species from the Caltech Birds dataset,
               and using augmentation techniques to overcome data scarcity.
             </p>
@@ -190,12 +204,14 @@
 
       <div class="col-lg-7 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#"><img class="card-img-top" src="https://github.com/Schlam/object-detection-ResNet50/blob/main/img/zombie.gif?raw=true" alt=""></a>
+          <a href="https://github.com/Schlam/object-detection-ResNet50">
+            <img class="card-img-top" src="https://github.com/Schlam/object-detection-ResNet50/blob/main/img/zombie.gif?raw=true" alt="https://github.com/Schlam/object-detection-ResNet50">
+          </a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Custom training loop for Few-Shot Object Detection</a>
+              <a href="https://github.com/Schlam/object-detection-ResNet50">Custom training loop for Few-Shot Object Detection</a>
             </h4>
-            <p class="https://github.com/Schlam/inceptionV3-transfer-learning">
+            <p class="card-text">
               Scripts for custom training loop. Rebuilding an SSD ResNet50 model from a 
               tensorflow model checkpoint, taking gradients with respect to the bounding box loss only</p>
           </div>
@@ -204,14 +220,14 @@
 
       <div class="col-lg-5 col-sm-6 portfolio-item">
         <div class="card h-100">
-          <a href="#">
+          <a href="https://github.com/schlam/segmint">
             <img class="card-img-top" src="https://raw.githubusercontent.com/Schlam/segmint/main/images/images_with_masks.png" alt="">
           </a>
           <div class="card-body">
             <h4 class="card-title">
-              <a href="#">Image Segmentation with Caltech Birds</a>
+              <a href="https://github.com/schlam/segmint">Image Segmentation with Caltech Birds</a>
             </h4>
-            <p class="https://github.com/schlam/caltech-birds-bounding-box-model">
+            <p class="card-text">
               Training scripts for an image segmentation experiment I performed, which combined ideas from two well known papers
               in computer vision. A key element of this experiment was building a UNet from a VGG19 base architecture.
               Another focus was the data-- which I had prior experience working with at the time. High variance in the 
@@ -225,16 +241,22 @@
     </div>
     <!-- /.row -->
     <!-- Features Section -->
+    <!-- <h1 style="text-align: left;font-size:xx-large;padding:2pc;">About Sam</h1> -->
+    <!-- <h2>About Sam</h2> -->
     <div class="row">
       <div class="col-lg-6">
-        <h2>Professional interests</h2>
-        <p>A few of things that engage me:</p>
-        <ul>
+        <h5 style="padding-bottom:6px; align:center;color: darkslategrey;">A few of things that engage me:</h5>
+        <ul list-style="none">
           <li>
             <strong>Artificial Intelligence</strong>, the ways it can augment our everyday experiences for the better, and its capacity to fundamentally change our society. 
           </li>
-          <li>Quantum Computing, and the generational shift in computing that comes with it.</li>
+          <hr>
+          <li>Quantum computing, and the new kinds of problems it can unlock.</li>
+          <hr>
           <li>Leveraging the massive quantity of organic data out in the wild to derive actionable insight in real time.</li>
+          <hr>
+          <li>Meeting cool people, working together to tackle big challenges.</li>
+          
         </ul>
         <!-- <p>Nothing is more exciting than the forefront of change.</p> -->
       </div>
